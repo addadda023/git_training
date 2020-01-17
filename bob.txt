@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Adding, text in bobby.
+=======
+Adding, text in bobby.
+>>>>>>> master
 Added second line in bob.
 Lol.
